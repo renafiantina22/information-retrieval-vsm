@@ -1,0 +1,5 @@
+doc1.txt: inform,1.6094 retriev,1.6094 system,1.6094 design,1.6094 search,1.6094 document,1.5514 effici,1.6094 vector,0.9163 space,0.9163 model,0.9163 wide,1.6094 use,0.9163 measur,0.9163 relev,0.9163
+doc2.txt: cosin,1.6094 similar,1.6094 commonli,1.6094 use,0.9163 vector,0.9163 space,0.9163 model,0.9163 help,0.9163 measur,0.9163 relev,0.9163 document,0.9163 queri,1.6094
+doc3.txt: healthi,1.6094 food,1.6094 contain,1.6094 import,1.6094 nutrient,1.6094 human,1.6094 bodi,1.6094 balanc,1.6094 diet,1.6094 improv,1.6094 health,1.6094 reduc,0.9163 diseas,1.6094 risk,1.6094
+doc4.txt: climat,1.6094 chang,1.6094 affect,1.6094 weather,1.6094 pattern,1.6094 around,1.6094 world,1.6094 mani,1.6094 countri,1.6094 tri,1.6094 reduc,0.9163 pollut,1.6094 protect,1.6094 environ,1.6094
+doc5.txt: footbal,1.6094 player,2.7250 practic,1.6094 everi,1.6094 day,1.6094 tournament,1.6094 talent,1.6094 score,1.6094 goal,1.6094 help,0.9163 team,1.6094 win,1.6094 match,1.6094

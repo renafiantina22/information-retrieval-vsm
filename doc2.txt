@@ -1,0 +1,2 @@
+Cosine similarity is commonly used in vector space models. 
+It helps measure how relevant a document is to a query.

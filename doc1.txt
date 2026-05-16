@@ -1,0 +1,2 @@
+Information retrieval systems are designed to search documents efficiently. 
+Vector space model is widely used to measure document relevance.    
