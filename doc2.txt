@@ -1,2 +1,2 @@
-Cosine similarity is commonly used in vector space models. 
-It helps measure how relevant a document is to a query.
+Vector space model represents documents as mathematical vectors. 
+Cosine similarity is used to measure document relevance.

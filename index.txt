@@ -4,7 +4,6 @@ balanc: doc3.txt,1.6094
 bodi: doc3.txt,1.6094
 chang: doc4.txt,1.6094
 climat: doc4.txt,1.6094
-commonli: doc2.txt,1.6094
 contain: doc3.txt,1.6094
 cosin: doc2.txt,1.6094
 countri: doc4.txt,1.6094
@@ -12,7 +11,7 @@ day: doc5.txt,1.6094
 design: doc1.txt,1.6094
 diet: doc3.txt,1.6094
 diseas: doc3.txt,1.6094
-document: doc1.txt,1.5514 doc2.txt,0.9163
+document: doc1.txt,1.5514 doc2.txt,1.5514
 effici: doc1.txt,1.6094
 environ: doc4.txt,1.6094
 everi: doc5.txt,1.6094
@@ -21,13 +20,14 @@ footbal: doc5.txt,1.6094
 goal: doc5.txt,1.6094
 health: doc3.txt,1.6094
 healthi: doc3.txt,1.6094
-help: doc2.txt,0.9163 doc5.txt,0.9163
+help: doc5.txt,1.6094
 human: doc3.txt,1.6094
 import: doc3.txt,1.6094
 improv: doc3.txt,1.6094
 inform: doc1.txt,1.6094
 mani: doc4.txt,1.6094
 match: doc5.txt,1.6094
+mathemat: doc2.txt,1.6094
 measur: doc1.txt,0.9163 doc2.txt,0.9163
 model: doc1.txt,0.9163 doc2.txt,0.9163
 nutrient: doc3.txt,1.6094
@@ -36,9 +36,9 @@ player: doc5.txt,2.7250
 pollut: doc4.txt,1.6094
 practic: doc5.txt,1.6094
 protect: doc4.txt,1.6094
-queri: doc2.txt,1.6094
 reduc: doc3.txt,0.9163 doc4.txt,0.9163
 relev: doc1.txt,0.9163 doc2.txt,0.9163
+repres: doc2.txt,1.6094
 retriev: doc1.txt,1.6094
 risk: doc3.txt,1.6094
 score: doc5.txt,1.6094
@@ -51,7 +51,7 @@ team: doc5.txt,1.6094
 tournament: doc5.txt,1.6094
 tri: doc4.txt,1.6094
 use: doc1.txt,0.9163 doc2.txt,0.9163
-vector: doc1.txt,0.9163 doc2.txt,0.9163
+vector: doc1.txt,0.9163 doc2.txt,1.5514
 weather: doc4.txt,1.6094
 wide: doc1.txt,1.6094
 win: doc5.txt,1.6094
