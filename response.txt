@@ -1,3 +1,4 @@
-2
-doc1.txt 0.5487
-doc2.txt 0.2539
+Total Relevant Documents: 2
+
+1. doc1.txt -> 0.5487
+2. doc2.txt -> 0.2539

@@ -261,6 +261,8 @@ with open("response.txt", "w") as f:
         if score > 0.001:
             valid_docs.append((doc, score))
 
-    f.write(str(len(valid_docs)) + "\n")
+    f.write(f"Total Relevant Documents: {len(valid_docs)}\n\n")
+    rank = 1
     for doc, score in valid_docs:
-        f.write(f"{doc} {score:.4f}\n")
+        f.write(f"{rank}. {doc} -> {score:.4f}\n")
+        rank += 1
