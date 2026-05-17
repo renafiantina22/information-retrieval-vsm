@@ -1,2 +1,4 @@
-Information retrieval systems are designed to search documents efficiently. 
-Vector space model is widely used to measure document relevance.    
+Information retrieval systems are designed to help users search digital documents efficiently. 
+The vector space model represents documents as mathematical vectors so that similarities between documents and queries can be calculated. 
+Cosine similarity is commonly used to measure how relevant a document is to a user query.
+These techniques are widely applied in modern search engines and digital libraries.

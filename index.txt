@@ -1,58 +1,118 @@
+activ: doc3.txt,0.9163 doc4.txt,0.9163
 affect: doc4.txt,1.6094
-around: doc4.txt,1.6094
+also: doc3.txt,0.9163 doc4.txt,0.9163
+appli: doc1.txt,1.6094
 balanc: doc3.txt,1.6094
+becom: doc4.txt,1.6094
 bodi: doc3.txt,1.6094
+calcul: doc1.txt,1.6094
+chanc: doc5.txt,1.6094
 chang: doc4.txt,1.6094
 climat: doc4.txt,1.6094
-contain: doc3.txt,1.6094
-cosin: doc2.txt,1.6094
+coach: doc5.txt,1.6094
+combin: doc3.txt,1.6094
+commonli: doc1.txt,1.6094
+competit: doc5.txt,1.6094
+cosin: doc1.txt,0.9163 doc2.txt,0.9163
 countri: doc4.txt,1.6094
-day: doc5.txt,1.6094
+creat: doc5.txt,1.6094
+daili: doc3.txt,0.9163 doc4.txt,0.9163
 design: doc1.txt,1.6094
 diet: doc3.txt,1.6094
+differ: doc5.txt,1.6094
+digit: doc1.txt,2.7250
 diseas: doc3.txt,1.6094
-document: doc1.txt,1.5514 doc2.txt,1.5514
+doctor: doc3.txt,1.6094
+document: doc1.txt,2.1865 doc2.txt,1.5514
+eat: doc3.txt,1.6094
+ecosystem: doc4.txt,1.6094
 effici: doc1.txt,1.6094
-environ: doc4.txt,1.6094
-everi: doc5.txt,1.6094
+electr: doc4.txt,1.6094
+encourag: doc4.txt,2.7250
+energet: doc3.txt,1.6094
+energi: doc4.txt,1.6094
+engin: doc1.txt,1.6094
+enjoy: doc5.txt,1.6094
+environment: doc4.txt,1.6094
+essenti: doc3.txt,1.6094
+excit: doc5.txt,1.6094
+exercis: doc3.txt,1.6094
+fan: doc5.txt,1.6094
 food: doc3.txt,1.6094
-footbal: doc5.txt,1.6094
+footbal: doc5.txt,2.7250
+fruit: doc3.txt,1.6094
+futur: doc4.txt,1.6094
+gener: doc4.txt,1.6094
+global: doc4.txt,1.6094
 goal: doc5.txt,1.6094
+good: doc3.txt,1.6094
 health: doc3.txt,1.6094
 healthi: doc3.txt,1.6094
-help: doc5.txt,1.6094
-human: doc3.txt,1.6094
-import: doc3.txt,1.6094
-improv: doc3.txt,1.6094
+help: doc1.txt,0.9163 doc3.txt,0.9163
+import: doc3.txt,0.5108 doc4.txt,0.5108 doc5.txt,0.5108
+improv: doc3.txt,0.9163 doc5.txt,0.9163
+increas: doc5.txt,1.6094
 inform: doc1.txt,1.6094
-mani: doc4.txt,1.6094
+issu: doc4.txt,1.6094
+librari: doc1.txt,1.6094
+life: doc3.txt,1.6094
+maintain: doc3.txt,0.9163 doc4.txt,0.9163
+mani: doc3.txt,0.5108 doc4.txt,0.5108 doc5.txt,0.5108
 match: doc5.txt,1.6094
-mathemat: doc2.txt,1.6094
+mathemat: doc1.txt,0.9163 doc2.txt,0.9163
 measur: doc1.txt,0.9163 doc2.txt,0.9163
 model: doc1.txt,0.9163 doc2.txt,0.9163
+modern: doc1.txt,1.6094
+natur: doc4.txt,1.6094
+next: doc4.txt,1.6094
 nutrient: doc3.txt,1.6094
+nutrit: doc3.txt,1.6094
+opportun: doc5.txt,1.6094
+overal: doc3.txt,1.6094
 pattern: doc4.txt,1.6094
+peopl: doc3.txt,0.9163 doc4.txt,0.9163
+perform: doc5.txt,1.6094
 player: doc5.txt,2.7250
 pollut: doc4.txt,1.6094
-practic: doc5.txt,1.6094
+prepar: doc5.txt,1.6094
 protect: doc4.txt,1.6094
+protein: doc3.txt,1.6094
+provid: doc3.txt,1.6094
+queri: doc1.txt,2.7250
+recommend: doc3.txt,1.6094
+recycl: doc4.txt,1.6094
 reduc: doc3.txt,0.9163 doc4.txt,0.9163
+regular: doc3.txt,1.6094
+regularli: doc3.txt,0.9163 doc5.txt,0.9163
 relev: doc1.txt,0.9163 doc2.txt,0.9163
-repres: doc2.txt,1.6094
+renew: doc4.txt,1.6094
+repres: doc1.txt,0.9163 doc2.txt,0.9163
 retriev: doc1.txt,1.6094
 risk: doc3.txt,1.6094
+save: doc4.txt,1.6094
 score: doc5.txt,1.6094
-search: doc1.txt,1.6094
-similar: doc2.txt,1.6094
+search: doc1.txt,2.7250
+seriou: doc4.txt,1.6094
+similar: doc1.txt,1.5514 doc2.txt,0.9163
+skill: doc5.txt,1.6094
 space: doc1.txt,0.9163 doc2.txt,0.9163
+stay: doc3.txt,1.6094
+strategi: doc5.txt,1.6094
+sustain: doc4.txt,1.6094
 system: doc1.txt,1.6094
-talent: doc5.txt,1.6094
-team: doc5.txt,1.6094
+team: doc5.txt,2.7250
+teamwork: doc5.txt,1.6094
+techniqu: doc1.txt,1.6094
 tournament: doc5.txt,1.6094
+train: doc5.txt,1.6094
 tri: doc4.txt,1.6094
-use: doc1.txt,0.9163 doc2.txt,0.9163
-vector: doc1.txt,0.9163 doc2.txt,1.5514
+use: doc1.txt,0.5108 doc2.txt,0.5108 doc4.txt,0.5108
+user: doc1.txt,2.7250
+usual: doc5.txt,1.6094
+vector: doc1.txt,1.5514 doc2.txt,1.5514
+veget: doc3.txt,1.6094
+wast: doc4.txt,1.6094
+watch: doc5.txt,1.6094
 weather: doc4.txt,1.6094
 wide: doc1.txt,1.6094
 win: doc5.txt,1.6094
-world: doc4.txt,1.6094
